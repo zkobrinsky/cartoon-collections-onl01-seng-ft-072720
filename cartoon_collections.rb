@@ -19,4 +19,3 @@ def find_the_cheese(array)
     return name
   end
 end
-
