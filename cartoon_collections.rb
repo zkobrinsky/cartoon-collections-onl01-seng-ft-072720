@@ -10,17 +10,7 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
-  # array.none? {|word| word.length <= 4}
-  array.each do |name|
 
-    if name.length > 4
-      # binding.pry
-      # return true
-      # return false
-    end
-    binding.pry
-  end
-  # return
 end
 
 def find_the_cheese# code an argument here
