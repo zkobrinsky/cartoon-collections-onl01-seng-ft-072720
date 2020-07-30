@@ -19,6 +19,7 @@ def find_the_cheese(array)
   if cheese_types.all? do |name| array.include?(i)
     return name
   end
+end
 
   # array.any?(cheese_types)
 
